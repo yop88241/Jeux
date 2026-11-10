@@ -1,4 +1,6 @@
 <?php
+/* ============ Bonjour ============ */
+
 
 declare(strict_types=1);
 
