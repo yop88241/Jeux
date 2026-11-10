@@ -1,5 +1,5 @@
 <?php
-/* ============ Bonjour ============ */
+/* ============ Bonjour ! ============ */
 
 
 declare(strict_types=1);
